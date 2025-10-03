@@ -1,3 +1,10 @@
+# Plugin archieved
+
+After more than five years, I’ve decided to officially end support for this plugin. As some of you may have already noticed, it hasn’t received many updates in quite a long time. The codebase is outdated, in need of a full rewrite, and unfortunately I no longer have the time to maintain or redevelop it.
+
+For a long time I thought I would eventually find the time to return to this project, but life has proven otherwise, and that moment never came. Because of this, the plugin will now be archived. There will be no further updates or new features. However, the existing code will remain available in a readonly state for anyone who still wishes to use it.
+
+I want to sincerely thank everyone who has used, supported, and contributed feedback over the years. Your support kept this project alive far longer than I initially imagined.
 
 <p align="center">
  <img src="https://i.imgur.com/tq2Wcav.png" width="100%">
